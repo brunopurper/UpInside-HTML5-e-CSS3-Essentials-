@@ -270,3 +270,10 @@
     font-size: 0.9rem;
     color: #333;
 }
+
+.main_course_fullwidth {
+    width: 100%;
+    background-color: #d36833;
+    padding: 40px 0;
+
+}
