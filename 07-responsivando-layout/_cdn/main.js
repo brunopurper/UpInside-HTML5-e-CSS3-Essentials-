@@ -1,7 +1,8 @@
 $(function(){
 
     $('.main-header-content-menu-mobile-obj') .on('click', function(){
-        alert('teste');
+        $('.main-header-content-menu-mobile-sub').toggleClass('ds_none');
+        $(this).toggleClass('main-header-content-menu-mobile-obj-active')
     });
 
 });

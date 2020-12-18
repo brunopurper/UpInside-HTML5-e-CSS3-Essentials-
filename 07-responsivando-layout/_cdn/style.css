@@ -627,7 +627,7 @@ footer {
     border-radius: 4px 4px 0 0;
 }
 
-.main-header-content-menu-mobile-obj:hover {
+.main-header-content-menu-mobile-obj:hover, .main-header-content-menu-mobile-obj-active {
     background-color: #fff;
 
 }
